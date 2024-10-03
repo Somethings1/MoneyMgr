@@ -1,0 +1,4 @@
+Cash,Main Accounts,1000,true
+hehe,Main,0,true
+ddmm,dmm luoon,-1000000,true
+dcmm,dmm luoon,10000,true

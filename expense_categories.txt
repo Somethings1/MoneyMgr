@@ -1,0 +1,2 @@
+💰,Food,0
+💰,Transport,0

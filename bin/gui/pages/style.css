@@ -1,0 +1,29 @@
+/* Set the background color for the entire TabPane */
+.tab-pane {
+    -fx-background-color: #2E2E2E; /* Dark gray background */
+}
+
+/* Style the tabs */
+.tab {
+    -fx-background-color: #3E3E3E; /* Darker gray for tabs */
+    -fx-text-fill: white; /* White text */
+    -fx-padding: 10px; /* Padding for tabs */
+    -fx-font-size: 14px; /* Font size */
+}
+
+/* Style the selected tab */
+.tab:selected {
+    -fx-background-color: #007ACC; /* Blue background for selected tab */
+    -fx-text-fill: white; /* Keep text white */
+}
+
+/* Hover effect for tabs */
+.tab:hover {
+    -fx-background-color: #5A5A5A; /* Lighter gray on hover */
+}
+
+/* Set the content area to match the tab style */
+.tab-content {
+    -fx-background-color: #2E2E2E; /* Match the TabPane background */
+    -fx-text-fill: white; /* White text for content */
+}
